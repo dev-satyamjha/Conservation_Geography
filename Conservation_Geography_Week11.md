@@ -43,14 +43,14 @@ Accepted Answers: Railways
 
 ### Question 4 (1 point)
 **Which of these is a factor governing barrier effect of roads?**
-- [x] road edge features
+- [ ] road edge features
 - [ ] time of day and year
 - [ ] species diversity in the surroundings
-- [ ] all of these
+- [x] all of these
 
 Yes, the answer is correct.  
 Score: 1  
-Accepted Answers: road edge features
+Accepted Answers: all of these
 
 ---
 
